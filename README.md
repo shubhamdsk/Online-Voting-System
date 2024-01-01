@@ -1,3 +1,6 @@
-![Admin Dashboard](https://github.com/shubhamdsk/Student-Council-Voting-System/assets/87111500/4146e349-db7e-4981-a950-bc476e5efba2)# Student-Council-Voting-System
+# Student-Council-Voting-System
+
+
 Project
-![Admin Dashboard](https://github.com/shubhamdsk/Student-Council-Voting-System/assets/87111500/ff83ef50-d2c5-480e-8265-f18e40ec3834)
+![Alt text](<Admin Dashboard.PNG>) ![Alt text](<Admin Login.PNG>) ![Alt text](<Approve Voter.PNG>) ![Alt text](<Candidate List for Voters.PNG>) ![Alt text](<Candidate List.PNG>) ![Alt text](<Candidate Login.PNG>) ![Alt text](<Candidate Registration.PNG>) ![Alt text](<Candidatewise Report Data.PNG>) ![Alt text](<Candidatewise Report.PNG>) ![Alt text](<Declare Election.PNG>) ![Alt text](<Declare Result.PNG>) ![Alt text](<Election List.PNG>) ![Alt text](Election.PNG) ![Alt text](Home.PNG) ![Alt text](<Overall Report.PNG>) ![Alt text](Result.PNG) ![Alt text](<Voter Dashboard.PNG>) ![Alt text](<Voter List.PNG>) ![Alt text](<Voter Login.PNG>) ![Alt text](<Voter Registration.PNG>)
+
