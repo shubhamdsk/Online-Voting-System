@@ -1,4 +1,5 @@
 # Student-Council-Voting-System
 
 Project
-(<Admin Dashboard.PNG>) (<Admin Login.PNG>) (<Approve Voter.PNG>) (<Candidate List for Voters.PNG>) (<Candidate List.PNG>) (<Candidate Login.PNG>) (<Candidate Registration.PNG>) (<Candidatewise Report Data.PNG>) (<Candidatewise Report.PNG>) (<Declare Election.PNG>) (<Declare Result.PNG>) (<Election List.PNG>) (Election.PNG) (Home.PNG) (<Overall Report.PNG>) (Result.PNG) (<Voter Dashboard.PNG>) (<Voter List.PNG>) (<Voter Login.PNG>) (<Voter Registration.PNG>)
+![Alt text](<Admin Dashboard.PNG>) ![Alt text](<Admin Login.PNG>) ![Alt text](<Approve Voter.PNG>) ![Alt text](<Candidate List for Voters.PNG>) ![Alt text](<Candidate List.PNG>) ![Alt text](<Candidate Login.PNG>) ![Alt text](<Candidate Registration.PNG>) ![Alt text](<Candidatewise Report Data.PNG>) ![Alt text](<Candidatewise Report.PNG>) ![Alt text](<Declare Election.PNG>) ![Alt text](<Declare Result.PNG>) ![Alt text](<Election List.PNG>) ![Alt text](Election.PNG) ![Alt text](Home.PNG) ![Alt text](<Overall Report.PNG>) ![Alt text](Result.PNG) ![Alt text](<Voter Dashboard.PNG>) ![Alt text](<Voter List.PNG>) ![Alt text](<Voter Login.PNG>) ![Alt text](<Voter Registration.PNG>)
+
