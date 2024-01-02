@@ -1,4 +1,4 @@
-# Student-Council-Voting-System
+# Online-Voting-System using Java
 
 Project
 
