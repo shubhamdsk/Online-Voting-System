@@ -1,6 +1,10 @@
 # Student-Council-Voting-System
 
 Project
+
+If want to this project you can buy from here https://www.buymeacoffee.com/shubhamdsk/extras with documentation as well
+
+
 ![Admin Dashboard](https://github.com/shubhamdsk/Student-Council-Voting-System/assets/87111500/f6b3850a-67f9-4c6a-9aa6-35bdc6e7f7c8)
 ![Admin Login](https://github.com/shubhamdsk/Student-Council-Voting-System/assets/87111500/88d542ac-fbde-40bd-a352-8afca3b0bd98)
 ![Approve Voter](https://github.com/shubhamdsk/Student-Council-Voting-System/assets/87111500/ff415853-b579-4dd7-ad27-fd227fc50698)
