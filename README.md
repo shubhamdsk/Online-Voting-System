@@ -8,7 +8,10 @@ Overall, the online student council voting system is a modern and efficient way 
 
 Project
 
-If want to this project you can buy from here https://www.buymeacoffee.com/shubhamdsk/extras with documentation as well
+If want to this project you can buy from here
+- https://www.buymeacoffee.com/shubhamdsk/extras and 
+- https://www.paypal.me/shubhamdsk
+ with documentation as well
 
 
 ![Admin Dashboard](https://github.com/shubhamdsk/Student-Council-Voting-System/assets/87111500/f6b3850a-67f9-4c6a-9aa6-35bdc6e7f7c8)
